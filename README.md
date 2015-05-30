@@ -6,6 +6,8 @@
 
 ```objective-c
 int a = 100;
+BOOL isA100 = YES;
+BOOL isA32 = NO;
 ```
 
 # Types
