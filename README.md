@@ -1,14 +1,9 @@
-# Objectives
-1. Declare variables of different types
-2. Print a variable to the console
+# Unit 0: Programming Basics
 
-# Variables
+Lesson plans, activities and assignments for Unit 0 will be posted here!
 
-```objective-c
-int a = 100;
-BOOL isA100 = YES;
-BOOL isA32 = NO;
-```
+### Lesson plans
 
-# Types
-
+ # |  Date | Week | Lesson |
+|---|---|---|---|
+ 0 | Jun 2 | 0 | [Variables & Types](lessons/week-0/2015-06-02_variables.md)
