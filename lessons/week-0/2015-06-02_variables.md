@@ -9,8 +9,7 @@ A variable is a name that has an associated value. Variables allow us to store a
 int age = 42;
 ```
 
-In the code above, ```age``` is a variable that stores the value 42; Every time you reference ```age``` in your program, the computer
-will know that you mean 42.
+In the code above, ```age``` is a variable that stores the value 42; Every time you reference ```age``` in your program, the computer will know that you mean 42.
 
 ### Pointers
 
@@ -25,16 +24,19 @@ In Objective-C, each variable is preceded by a specific type. These types serve 
 
 ### Primitive types
 
-```int``` - whole numbers
-```char``` - character
-```float``` - floating point numbers (real numbers)
-```double``` - floating point numbers (real numbers)
-```BOOL``` - YES or NO, 1 or 0, true or false
-- float vs. double = precision [http://stackoverflow.com/questions/5098558/float-vs-double-precision](http://stackoverflow.com/questions/5098558/float-vs-double-precision)
+* ```int``` - whole numbers
+* ```char``` - character
+* ```float``` - floating point numbers (real numbers)
+* ```double``` - floating point numbers (real numbers)
+* ```BOOL``` - YES or NO, 1 or 0, true or false
+
+ 
+float vs. double = precision [http://stackoverflow.com/questions/5098558/float-vs-double-precision](http://stackoverflow.com/questions/5098558/float-vs-double-precision)
 
 ### Apple's primitive types
-```NSInteger``` - environment aware int
-```CGFloat``` - enfironment aware float
+
+* ```NSInteger``` - environment aware int
+* ```CGFloat``` - enfironment aware float
 
 
 > **Further reading:**
