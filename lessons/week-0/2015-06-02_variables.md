@@ -6,9 +6,13 @@
 
 ```objective-c
 int a = 100;
+char a = 'a';
 BOOL isA100 = YES;
-BOOL isA32 = NO;
+float gravity = 9.8;
+double pi = 3.14159265358979323846;
+
 ```
+[http://iosdevelopmenttutorials.com/primitive-data-types-objective-c/](http://iosdevelopmenttutorials.com/primitive-data-types-objective-c/)
 
 # Types
 
