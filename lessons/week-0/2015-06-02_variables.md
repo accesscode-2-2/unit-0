@@ -14,14 +14,20 @@ will know that you mean 42.
 
 # Types
 
+In Objective-C, each variable is preceded by a specific type. These types serve a few purposes:
+1. Allow the system to resposibly manage memory
+2. Help by providing context
+3. Make your code safer
+
 ### Primitive types
 
-```objective-c
-int a = 100;
-char a = 'a';
-BOOL isA100 = YES;
-float gravity = 9.8;
-double pi = 3.14159265358979323846;
+```int``` - whole numbers
+	```signed``` or ```unsigned```
+```char```
+```float```
+```double```
+```BOOL``` - YES or NO, 1 or 0, true or false
+
 struct Point {
   int x;
   int y;
