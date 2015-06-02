@@ -9,6 +9,7 @@ In short,
 # Types
 
 ### Primitives
+
 ```objective-c
 int a = 100;
 char a = 'a';
@@ -26,11 +27,13 @@ struct Rectangle {
 }
 ```
 
+[http://iosdevelopmenttutorials.com/primitive-data-types-objective-c/](http://iosdevelopmenttutorials.com/primitive-data-types-objective-c/)
+
 ### Objects
+
 ```objective-c
 NSString *myName = @"Mike";
 UIColor *green = [UIColor greenColor];
 ```
 
-[http://iosdevelopmenttutorials.com/primitive-data-types-objective-c/](http://iosdevelopmenttutorials.com/primitive-data-types-objective-c/)
 
