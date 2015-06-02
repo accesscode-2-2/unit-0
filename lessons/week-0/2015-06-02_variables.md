@@ -22,7 +22,6 @@ In Objective-C, each variable is preceded by a specific type. These types serve 
 ### Primitive types
 
 ```int``` - whole numbers
-	```signed``` or ```unsigned```
 ```char```
 ```float```
 ```double```
