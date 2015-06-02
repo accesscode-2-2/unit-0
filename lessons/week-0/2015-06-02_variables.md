@@ -22,23 +22,16 @@ In Objective-C, each variable is preceded by a specific type. These types serve 
 ### Primitive types
 
 ```int``` - whole numbers
-```char```
-```float```
-```double```
+```char``` - character
+```float``` - floating point numbers (real numbers)
+```double``` - floating point numbers (real numbers)
+float vs. double = precision [http://stackoverflow.com/questions/5098558/float-vs-double-precision](http://stackoverflow.com/questions/5098558/float-vs-double-precision)
 ```BOOL``` - YES or NO, 1 or 0, true or false
 
-struct Point {
-  int x;
-  int y;
-}
-struct Rectangle {
-  Point origin;
-  int width;
-  int height;
-}
-```
 
 
+
+*** Further reading:
 [http://iosdevelopmenttutorials.com/primitive-data-types-objective-c/](http://iosdevelopmenttutorials.com/primitive-data-types-objective-c/)
 
 ### Objects
@@ -47,5 +40,6 @@ struct Rectangle {
 NSString *myName = @"Mike";
 UIColor *green = [UIColor greenColor];
 ```
+
 
 
