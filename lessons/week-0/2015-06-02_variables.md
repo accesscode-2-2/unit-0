@@ -1,14 +1,20 @@
 # Objectives
 1. Declare variables of different types
-2. Print a variable to the console
+2. Print different typed variable to the console
 
 # Variables
 
-In short,
+A variable is a name that has an associated value. Variables allow us to store and reference data in our program.
+```objective-c
+int age = 42;
+```
+
+In the code above, ```age``` is a variable that stores the value 42; Every time you reference ```age``` in your program, the computer
+will know that you mean 42.
 
 # Types
 
-### Primitives
+### Primitive types
 
 ```objective-c
 int a = 100;
@@ -26,6 +32,7 @@ struct Rectangle {
   int height;
 }
 ```
+
 
 [http://iosdevelopmenttutorials.com/primitive-data-types-objective-c/](http://iosdevelopmenttutorials.com/primitive-data-types-objective-c/)
 
