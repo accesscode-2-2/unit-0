@@ -3,7 +3,7 @@
 **How to take a screenshot:** shift + command + 4 (use space to capture the entire window)
 **Dragging from Interface Builder:** https://www.dropbox.com/s/1e7q3kdzny8970x/drag_mov.mov?dl=0
 
-> ** Homework: **  
+> **Homework:**   
 Create an iOS app and add some labels to the screen. Use what we learned about string formatters to print various text using the labels. Get creative!!!
 
 
