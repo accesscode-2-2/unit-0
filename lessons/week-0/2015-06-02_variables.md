@@ -1,7 +1,7 @@
 # Code Sample
-**Code sample from class:** [https://gist.github.com/mikekavouras/5abfc01fdb77e8c60b8e](https://gist.github.com/mikekavouras/5abfc01fdb77e8c60b8e)
-**How to take a screenshot:** shift + command + 4 (use space to capture the entire window)
-**Dragging from Interface Builder:** https://www.dropbox.com/s/1e7q3kdzny8970x/drag_mov.mov?dl=0
+**Code sample from class:** [https://gist.github.com/mikekavouras/5abfc01fdb77e8c60b8e](https://gist.github.com/mikekavouras/5abfc01fdb77e8c60b8e)  
+**How to take a screenshot:** shift + command + 4 (use space to capture the entire window)  
+**Dragging from Interface Builder:** https://www.dropbox.com/s/1e7q3kdzny8970x/drag_mov.mov?dl=0  
 
 > **Homework:**   
 Create an iOS app and add some labels to the screen. Use what we learned about string formatters to print various text using the labels. Get creative!!!
@@ -26,10 +26,10 @@ A pointer is a variable that points to another variable. Specifically, pointers 
 
 # Types
 
-In Objective-C, each variable is preceded by a specific type. These types serve a few purposes:
-1. Allow the system to resposibly manage memory
-2. Help by providing context
-3. Make your code safer
+In Objective-C, each variable is preceded by a specific type. These types serve a few purposes:  
+1. Allow the system to resposibly manage memory  
+2. Help by providing context  
+3. Make your code safer  
 
 ### Primitive types
 
