@@ -1,6 +1,5 @@
 # Code Sample
-**Code sample from class:** [https://gist.github.com/mikekavouras/5abfc01fdb77e8c60b8e](https://gist.github.com/mikekavouras/5abfc01fdb77e8c60b8e)
-
+**Code sample from class:** [https://gist.github.com/mikekavouras/5abfc01fdb77e8c60b8e](https://gist.github.com/mikekavouras/5abfc01fdb77e8c60b8e)  
 **How to take a screenshot:** shift + command + 4 (use space to capture the entire window)
 
 
