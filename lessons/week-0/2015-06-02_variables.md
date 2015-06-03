@@ -1,8 +1,8 @@
 # Code Sample
-Here's the code sample from class:
+**Here's the code sample from class:**
 [https://gist.github.com/mikekavouras/5abfc01fdb77e8c60b8e](https://gist.github.com/mikekavouras/5abfc01fdb77e8c60b8e)
-
-How to take a screenshot: shift + command + 4 (use space to capture the entire window)
+**How to take a screenshot:** shift + command + 4 (use space to capture the entire window)
+**Dragging from Interface Builder:** https://www.dropbox.com/s/1e7q3kdzny8970x/drag_mov.mov?dl=0
 
 
 # Objectives
