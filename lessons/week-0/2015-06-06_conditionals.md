@@ -38,7 +38,7 @@ if (tenIsGreaterThanSeven) {
 }
 ```
 
-It can also get very complex, sometimes resulting in multiple layers of nested statements. Boolean statements are a result of something that we haven't discussed yet: **state**. **State** is unavoidable, but introduces complexity into your program. The more state, the more room for error. If you find yourself with deeply nested boolean statements, odds are you need to take a step back and rethink that section of your program.
+It can also get very complex, sometimes resulting in multiple layers of nested statements. Boolean statements are the result of something that we haven't discussed yet: **state**. **State** is unavoidable, but introduces complexity into your program. The more state, the more room for error. If you find yourself with deeply nested boolean statements, odds are you need to take a step back and rethink that section of your program.
 
 ``` c
 if (tenIsGreaterThanSeven) {
