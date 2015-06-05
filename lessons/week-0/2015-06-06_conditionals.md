@@ -45,7 +45,7 @@ if (tenIsGreaterThanSeven) {
   if (!isRaining) {
     NSLog(@"everything is perfect");
   } else {
-
+    NSLog(@"oops... forgot my umbrella. At least 10 > 7");
   }
 } else {
   NSLog(@"instanity");
