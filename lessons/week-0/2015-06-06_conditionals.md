@@ -1,3 +1,7 @@
+### Objectives
+*  Use git to sync your repository between your computer and github
+*  Control the flow of logic through your program with if/else statements
+
 ### GitX
 http://gitx.frim.nl
 
