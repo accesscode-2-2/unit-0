@@ -8,18 +8,9 @@ http://gitx.frim.nl
 ![Image of Yaktocat]
 (http://3.bp.blogspot.com/-EIvLehT4a-U/Ti2OaDh9V-I/AAAAAAAAAeg/uCEpZpYg22o/s1600/Bildschirmfoto+2011-07-25+um+17.39.21.png)
 
-### Input
+### Exercise #1
 
-The `scanf` function pauses your program and waits for user input. We're going to be using this practice 
-handling unpredictable behavior to our program.
-
-``` c
-int age;
-
-scanf("%d", &age);
-
-NSLog(@"%d", age);
-```
+Push Thursdays homework to a remote repository. Once pushed, navigate to one of your peers github profiles. Fork their repository, make an edit, and submit a pull request.
 
 ### If/Else
 
@@ -57,3 +48,9 @@ if (tenIsGreaterThanSeven) {
 ```
 
 https://gist.github.com/mikekavouras/0b51b2481dd971d5113e
+
+
+### Exercise #2
+
+There is an Xcode project on Github (https://github.com/accesscode-2-2/IfElse). Fork the repo and add some logic. 
+When you're finished, create a pull request.
