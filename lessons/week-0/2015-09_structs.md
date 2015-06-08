@@ -1,6 +1,7 @@
 ### Objectives
 Create and use custom data structures 
 
+### Structs
 Up to this point, the data types we've been working with have been provided for us by the system: int, float, double, etc. This, for the most part, has been adequate. But what happens as our code base grows? Let's take a look at an example that has obvious limitations...
 
 Original;
