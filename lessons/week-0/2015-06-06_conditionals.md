@@ -82,3 +82,6 @@ Sample output:
   Here is your mad lib!!
   The purple bear went into the ancient house.
   There she saw a dragon and a spoon.
+
+
+### Homework
