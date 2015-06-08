@@ -78,3 +78,6 @@ https://gist.github.com/mikekavouras/be5b9d7d5d40c093c7c9
 Update your program to take advantage of the structs.
 
 
+> **Additional Reading**
+http://www.cprogramming.com/tutorial/c/lesson7.html
+
