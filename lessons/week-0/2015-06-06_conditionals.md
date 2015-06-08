@@ -45,7 +45,7 @@ if (tenIsGreaterThanSeven) {
     NSLog(@"oops... forgot my umbrella. At least 10 > 7");
   }
 } else {
-  NSLog(@"instanity");
+  NSLog(@"insanity");
 }
 ```
 
