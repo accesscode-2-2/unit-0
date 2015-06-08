@@ -75,6 +75,6 @@ https://gist.github.com/mikekavouras/be5b9d7d5d40c093c7c9
 
 ### Exercise 
 
-Update your program to take advantage of the stucts.
+Update your program to take advantage of the structs.
 
 
