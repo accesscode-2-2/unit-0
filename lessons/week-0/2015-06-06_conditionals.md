@@ -95,3 +95,7 @@ https://gist.github.com/mikekavouras/f97f0eaf1c1edbe02123
 
 > **Image Example**
 https://www.dropbox.com/s/lggka5fulw3b7jf/Screenshot%202015-06-07%2018.00.53.png?dl=0
+
+
+#### Bonus challenge
+DO IT IN SWIFT!
