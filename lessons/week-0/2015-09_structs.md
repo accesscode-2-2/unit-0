@@ -4,7 +4,7 @@ Create and use custom data structures
 ### Structs
 Up to this point, the data types we've been working with have been provided for us by the system: int, float, double, etc. This, for the most part, has been adequate. But what happens as our code base grows? Let's take a look at an example that has obvious limitations...
 
-Original;
+Original:
 https://gist.github.com/mikekavouras/977425b7191f8aab2012
 
 In the above example, we're using variables to define the attributes of two different people, Carl and Justin. In it's current format we don't have a standard for naming these attributes. You'll notice the `justinAge` and `howOldIsCarl` are both referring to age, yet they're totally different patterns.
