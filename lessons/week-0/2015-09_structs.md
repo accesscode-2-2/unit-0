@@ -73,3 +73,14 @@ struct Person mike;
 ```
 
 First, we need to define a new variable. In this case we're creating a new variable of type `struct Person` with a name of `mike`. 
+
+![image]
+(http://i.imgur.com/DLdAVQX.png)
+
+The next thing we need to do is fill in our attributes.
+
+``` c
+mike.age = 26;
+mike.height = 5.8;
+mike.weight = 169;
+```
