@@ -3,36 +3,8 @@ Create and use custom data structures
 
 Up to this point, the data types we've been working with have been provided for us by the system: int, float, double, etc. This, for the most part, has been adequate. But what happens as our code base grows? Let's take a look at an example that has obvious limitations...
 
-``` objective-c
-// justin
-int justinAge = 18;
-BOOL justinAccompanied = YES;
-BOOL justinSwag = NO;
-int justinMoney = 4;
-
-// carl
-int howOldIsCarl = 21;
-BOOL carlAccompanied = YES;
-BOOL carlSwag = YES;
-int carlMoney = 4000;
-
-// rules
-int minAge = 21;
-int buyoff = 50;
-
-// Boolean logic
-if (carlAge >= minAge && !carlAccompanied) {
-    NSLog(@"You can't play this game");
-} else if (!carlSwag) {
-    if (carlMoney >= buyoff) {
-        NSLog(@"welcome");
-    } else {
-        NSLog(@"You can't play this game");
-    }
-} else {
-    NSLog(@"welcome");
-}
-```
+Original;
+https://gist.github.com/mikekavouras/977425b7191f8aab2012
 
 In the above example, we're using variables to define the attributes of two different people, Carl and Justin. In it's current format we don't have a standard for naming these attributes. You'll notice the `justinAge` and `howOldIsCarl` are both referring to age, yet they're totally different patterns.
 
@@ -43,10 +15,11 @@ What if we could create our own custom data type (like `int` or `float`) that co
 The correct answer is yes. It would be nice.
 
 It turns out that this is not only possible, but it's encouraged. Part of being a good programmer is planning, and part of planning is organizing our data in a way that makes sense in the context of our program. The above program could be made more readable and much safer to use if we had some sort of standard by which we could define a person. 
-
 Enter `struct`
 
-A struct is exactly what it sounds like, a structure. It's a tool for us to define custom data structures that are a bit more complex than a basic `int` or `float`. The following code is the basic pattern for a struct:
+A struct is exactly what it sounds like, a structure. It's a tool for us to define custom data structures that are a bit more complex than a basic `int` or `float`. Structs are defined OUTSIDE of the `main` function. 
+
+The following code is the basic pattern for a struct:
 
 ``` c
 struct Name {
@@ -77,10 +50,26 @@ First, we need to define a new variable. In this case we're creating a new varia
 ![image]
 (http://i.imgur.com/DLdAVQX.png)
 
-The next thing we need to do is fill in our attributes.
+The next thing we need to do is define our attributes.
 
 ``` c
 mike.age = 26;
 mike.height = 5.8;
-mike.weight = 169;
+mike.weight = 169.0;
 ```
+
+All together now.
+
+``` c
+struct Person mike;
+mike.age = 26;
+mike.height = 5.8;
+mike.weight = 169.0;
+```
+
+In our Justin and Carl example, we can now user our new data type to create some consistency.
+
+Updated:
+https://gist.github.com/mikekavouras/be5b9d7d5d40c093c7c9
+
+
