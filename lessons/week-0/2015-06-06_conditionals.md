@@ -72,16 +72,16 @@ This program should prompt the user for a minimum of six inputs (text inputs wit
 
 Sample input:
 
-  Enter an adjective: purple
-  Enter another adjective: ancient
-  Enter a noun: dragon
-  Enter another noun: spoon
+  Enter an adjective: purple  
+  Enter another adjective: ancient   
+  Enter a noun: dragon  
+  Enter another noun: spoon  
   
 Sample output:
 
-  Here is your mad lib!!
-  The purple bear went into the ancient house.
-  There she saw a dragon and a spoon.
+  Here is your mad lib!!  
+  The purple bear went into the ancient house.  
+  There she saw a dragon and a spoon.  
 
 
 ### Homework
