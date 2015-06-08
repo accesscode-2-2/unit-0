@@ -1,3 +1,5 @@
+### 06/06
+
 ### Objectives
 *  Use git to sync your repository between your computer and github
 *  Control the flow of logic through your program with if/else statements
@@ -8,18 +10,9 @@ http://gitx.frim.nl
 ![Image of Yaktocat]
 (http://3.bp.blogspot.com/-EIvLehT4a-U/Ti2OaDh9V-I/AAAAAAAAAeg/uCEpZpYg22o/s1600/Bildschirmfoto+2011-07-25+um+17.39.21.png)
 
-### Input
+### Exercise #1
 
-The `scanf` function pauses your program and waits for user input. We're going to be using this practice 
-handling unpredictable behavior to our program.
-
-``` c
-int age;
-
-scanf("%d", &age);
-
-NSLog(@"%d", age);
-```
+Push Thursdays homework to a remote repository. Once pushed, navigate to one of your peers github profiles. Fork their repository, make an edit, and submit a pull request.
 
 ### If/Else
 
@@ -57,3 +50,52 @@ if (tenIsGreaterThanSeven) {
 ```
 
 https://gist.github.com/mikekavouras/0b51b2481dd971d5113e
+
+
+### Exercise #2
+
+There is an Xcode project on Github (https://github.com/accesscode-2-2/IfElse). Fork the repo and add some logic. 
+When you're finished, create a pull request.
+
+### 06/07
+
+### More boolean logic
+
+We talked about boolean logic in the context of entering a club (https://gist.github.com/mikekavouras/a22d2512ed5014465622). Let's take it a step further. The following gist lays out requirements for different scenarios. Your job is to write the logic to implement these requirements. 
+https://gist.github.com/mikekavouras/321df03634d9ebeca5ff
+
+### Exercises
+
+Madlibs
+
+This program should prompt the user for a minimum of six inputs (text inputs with at least one number) and then print out your "mad lib" result! Here is a sample partial run:
+
+Sample input:
+
+  Enter an adjective: purple  
+  Enter another adjective: ancient   
+  Enter a noun: dragon  
+  Enter another noun: spoon  
+  
+Sample output:
+
+  Here is your mad lib!!  
+  The purple bear went into the ancient house.  
+  There she saw a dragon and a spoon.  
+
+
+### Homework
+
+The goal of this homework is to create a condition based story/poem/song. Your code should output appropriate text based on variable user input. Have fun. Get creative :)
+
+Your layout doesn't have to look like my layout. But you can use it if you want.
+
+> **Code Example**
+https://gist.github.com/mikekavouras/f97f0eaf1c1edbe02123
+
+> **Image Example**
+https://www.dropbox.com/s/lggka5fulw3b7jf/Screenshot%202015-06-07%2018.00.53.png?dl=0
+
+
+#### Bonus challenge
+DO IT IN SWIFT!
