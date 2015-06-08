@@ -85,3 +85,7 @@ Sample output:
 
 
 ### Homework
+
+https://gist.github.com/mikekavouras/f97f0eaf1c1edbe02123
+![Image of Yaktocat]
+(https://photos-6.dropbox.com/t/2/AAADwqDTZ57CrLSdpxWr4IcYhguE2R_WhFfvUf6JUygMZw/12/290552120/png/32x32/1/_/1/2/Screenshot%202015-06-07%2018.00.53.png/CLjyxYoBIAEgAiADIAQgBSAGIAcoASgC/t4KnM-82P0M687DnOwIV7Xty-nAG7TbbDBYn9aHSMSI?size=1024x768&size_mode=2)
