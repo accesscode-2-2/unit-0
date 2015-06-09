@@ -54,7 +54,7 @@ scanf("%s", &name);
 NSLog(@"And your name is %s!", name);
 ```
 
-Write a mad lib program by asking the user for input!
+**Write a mad lib program by asking the user for input!**
 
 > **Additional Reading**  
 Arrays in C: http://www.tutorialspoint.com/cprogramming/c_arrays.htm
