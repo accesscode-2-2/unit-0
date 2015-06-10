@@ -88,13 +88,8 @@ Sample output:
 
 The goal of this homework is to create a condition based story/poem/song. Your code should output appropriate text based on variable user input. Have fun. Get creative :)
 
-Your layout doesn't have to look like my layout. But you can use it if you want.
-
 > **Code Example**
-https://gist.github.com/mikekavouras/f97f0eaf1c1edbe02123
-
-> **Image Example**
-https://www.dropbox.com/s/lggka5fulw3b7jf/Screenshot%202015-06-07%2018.00.53.png?dl=0
+https://gist.github.com/mikekavouras/e59157bebff57a81cbec
 
 
 #### Bonus challenge
