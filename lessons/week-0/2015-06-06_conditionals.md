@@ -90,7 +90,3 @@ The goal of this homework is to create a condition based story/poem/song. Your c
 
 > **Code Example**
 https://gist.github.com/mikekavouras/e59157bebff57a81cbec
-
-
-#### Bonus challenge
-DO IT IN SWIFT!
