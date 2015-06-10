@@ -86,7 +86,7 @@ Sample output:
 
 ### Homework
 
-The goal of this homework is to create a condition based story/poem/song. Your code should output appropriate text based on variable user input. Have fun. Get creative :)
+The goal of this homework is to create a choose your own adventure type game. Your code should output appropriate text based on variable user input. Have fun. Get creative :)
 
 > **Code Example**
 https://gist.github.com/mikekavouras/e59157bebff57a81cbec
