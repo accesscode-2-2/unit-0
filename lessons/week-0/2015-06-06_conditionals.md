@@ -86,7 +86,4 @@ Sample output:
 
 ### Homework
 
-The goal of this homework is to create a choose your own adventure type game. Your code should output appropriate text based on variable user input. Have fun. Get creative :)
-
-> **Code Example**
-https://gist.github.com/mikekavouras/e59157bebff57a81cbec
+[https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-0/2015-02-06_homework.md](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-0/2015-02-06_homework.md)
