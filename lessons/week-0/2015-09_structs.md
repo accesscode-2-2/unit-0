@@ -11,7 +11,7 @@ In the above example, we're using variables to define the attributes of two diff
 
 Luckily, the people who created C realized that this could become a serious problem. Free floating variables, although WE may know what we're trying to say, could lead to confusion with larger files and/or when other programmers are trying to understand our code.
 
-What if we could create our own custom data type (like `int` or `float`) that could totally encapsulate what it means to be a person? In the same way that an int type encapsulates what it means to be a whole number, and a float type encapsulates what it means to be a real number, wouldn't it be nice if we could create something like a person type that encapsulates what it means to be a person?
+What if we could create our own custom data type (like `int` or `float`) that could totally encapsulate what it means to be a person, or a car, or a planet? In the same way that an int type encapsulates what it means to be a whole number, and a float type encapsulates what it means to be a real number, wouldn't it be nice if we could create something like a person type that encapsulates what it means to be a person?
 
 The correct answer is yes. It would be nice.
 
