@@ -14,4 +14,4 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
 5 | Jun 11 | 1 | [Structs](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-0/2015-06-11_structs.md)
 6 | Jun 13 | 1 | [Loops](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-0/2015-06-13_loops.md)
 7 | Jun 14 | 1 | [Arrays + Loops](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-0/2015-06-14_loops_arrays.md)
-8 | Jun 9-14 | [Week 1 Homework](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-0/2015-06-14_loops_arrays.md)
+8 | Jun 9-14 | 1 | [Week 1 Homework](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-0/2015-06-14_loops_arrays.md)
