@@ -77,3 +77,5 @@ for (int i = 0; i < sizeof(arr) / sizeof(int); i++) {
 ```
 
 > **Exercise:** Reimplement the "12 days of Christmas" program using arrays and loops.
+
+> **Additional Reading:** http://c.learncodethehardway.org/book/ex10.html
