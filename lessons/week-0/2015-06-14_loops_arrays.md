@@ -1,8 +1,8 @@
-### Objective
+# Objective
 1. Proficiency with loops  
 2. Ability to manipulate and interate arrays
 
-### 🎉🎉🎉 More Loops 🎉🎉🎉
+# 🎉🎉🎉 More Loops 🎉🎉🎉
 
 > **Exercise:** Write a program using a `while` loop that prints the infamous [99 Bottles of Beer](https://en.wikipedia.org/wiki/99_Bottles_of_Beer) song. When you run out of beer, print something along the lines of, "go get more beer."  
 > **Exercise:** Write the same program using a `for` loop.   
@@ -10,7 +10,7 @@
 
 > **Bonus Exercise:** Do it in Swift 😀
 
-### Arrays
+# Arrays
 
 ![image]
 (https://docs.oracle.com/javase/tutorial/figures/java/objects-tenElementArray.gif)
@@ -33,7 +33,7 @@ int numbers = {8, 4, 2, 5, 7, 4, 1, 12, 5, 16};
 
 Both examples above will initialize an `array` of type `int` with a size of 10 ints. 
 
-#### Accessing elements 
+### Accessing elements 
 An array is useless if we can't access the individual values. We can access specific values in an array by asking for the value at an *index*. The index, also referred to as subscript, is the position (0 based) of an element within an array.
 
 ```c
@@ -44,14 +44,14 @@ numbers[0]; // 8
 numbers[1]; // 4
 ```
 
-#### Updating values
+### Updating values
 Once you can access an element within in array, it's fairly trivial to update its value.
 
 ```c
 numbers[0] = 10;
 ```
 
-#### Arrays and Loops
+### Arrays and Loops
 Arrays and loops go hand-in-hand. Especially `for` loops. Since `for` loops always have an iterator (commonly `i`) it's only natural to use them to iterate though arrays, quickly and effortlessly accessing the element at each index.
 
 ```c
