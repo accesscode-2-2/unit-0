@@ -76,6 +76,18 @@ for (int i = 0; i < sizeof(arr) / sizeof(int); i++) {
 }
 ```
 
+> **Exercise:** Write a program that asks the user for some numbers and then stores them in an `ArrayList`. Here is an example program:
+
+> ```
+> Please give me some numbers:
+> 0
+> 81
+> 14
+> 2
+> 49
+> Your number(s) are saved!
+> ```
+
 > **Exercise:** Reimplement the "12 days of Christmas" program using arrays and loops.
 
 > **Additional Reading:** http://c.learncodethehardway.org/book/ex10.html
