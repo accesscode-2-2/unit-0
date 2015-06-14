@@ -75,7 +75,16 @@ for (int i = 0; i < sizeof(arr) / sizeof(int); i++) {
   printf("%d", arr[i]);
 }
 ```
+> **Exercise:** Create an array of 10 `int`. Iterate through the array and print each `int` out to the console
+> **Exercise:** Do the same thing as before, except allow the user to input 10 `int'.
 
+### Sorting 
+
+One of the most common algorithms that you'll encounter is the sort algorithm. There are many variations, ranging in both complexity and speed. One of the simplest and slowest sort algorithms is the (bubble sort algorithm)[https://en.wikipedia.org/wiki/Bubble_sort]. 
+
+> **Exercise:** Create an array of ints based on user input. Implement the bubble sort algorithm and print out the sorted array.
+
+> **Bonus Exercise:** Do it in Swift!
 
 > **Exercise:** Reimplement the "12 days of Christmas" program using arrays and loops.
 
