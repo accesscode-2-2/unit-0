@@ -28,7 +28,7 @@ There are two ways to initialize an array.
 int numbers[10];
 
 // 2.
-int numbers = {8, 4, 2, 5, 7, 4, 1, 12, 5, 16};
+int numbers[] = {8, 4, 2, 5, 7, 4, 1, 12, 5, 16};
 ```
 
 Both examples above will initialize an `array` of type `int` with a size of 10 ints. 
