@@ -64,6 +64,8 @@ int main(int argc, const char * argv[]) {
     // 13.
     // name
     // bubble sort!
+    //   Bubble sort has worst-case and average complexity both О(n2),
+    //   where n is the number of items being sorted.
     
     // 14.
     // name
