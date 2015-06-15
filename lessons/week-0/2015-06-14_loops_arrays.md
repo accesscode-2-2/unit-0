@@ -88,13 +88,6 @@ One of the most common algorithms that you'll encounter is the sort algorithm. T
 
 > **12 Days of Christmas:** Reimplement the "12 days of Christmas" program using arrays and loops.
 
-> **Hang Person:** Create a game called "Hang Person" where a user has to guess a predetermined word. Here are the rules:
-
-1. After every guess, you must print out the current state of the game. (e.g. _ _ n _ n _)
-2. You must determine a maximun number of wrong guesses. If the player guesses too many incorrect letters, they lose and the game ends.
-3. If the player looses, provide a message letting them know that they lost.
-4. If they win, provide a message letting them know that they won.
-
-Have fun!
-
 > **Additional Reading:** http://c.learncodethehardway.org/book/ex10.html
+
+> **Homework:** https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-0/2015-06-14_homework.md
