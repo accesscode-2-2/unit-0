@@ -1,4 +1,4 @@
-### Choose Your Adventure
+# Choose Your Adventure
 
 Your job is to create a choose your adventure game in the console. The following concepts should be used throughout your program:
 
