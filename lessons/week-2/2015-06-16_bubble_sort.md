@@ -1,3 +1,7 @@
+# Objective 
+1. Proficiency with loops + arrays
+2. Ability to process large problems
+
 # Bubble Sort
 
 Today will be a group exercise. We'll be reviewing loops and arrays.
