@@ -1,5 +1,5 @@
 #Objective 
-1. Demonstrate an understandin of *abstraction*
+1. Demonstrate an understanding of *abstraction*
 
 # Functions
 
