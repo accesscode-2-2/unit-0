@@ -16,7 +16,7 @@ void printNewLine() {
 }
 ```
 
-<img src="https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/funtion_signature_body.png" width="400" />
+<img src="https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/function_anatomy%402x.png" width="400" />
 
 ####Signature
 A functions signature provides a high level description of how it works. There are 3 parts to a function signature:   
@@ -46,6 +46,19 @@ int threePlusFive = sum(3, 5);
 ```
 
 The above code declares two variables, `three` and `five` and give them initial values of 3 and 5. We then declare another variable `threePlusFive` and we set the value to the returned value of `sum(3, 5)`.
+
+**Arguments:** Arguments are any additional information that is necessary in order for a function to complete its task. For instance, in the above example, a function that sums two numbers would be useless without two numbers. It would also be pointess to define two numbers within the function because the function would then be limited. For example:
+
+```c
+int sum() {
+  int a = 5;
+  int b = 3;
+  return a + b;
+}
+```
+
+The above `function` would always return a value of 8. If we wanted to sum 1 + 2 it would be impossible. Through the concept of arguments, we can provide the numbers when we call the function giving it a lot of flexibility. 
+
 
 ### Abstraction
 
