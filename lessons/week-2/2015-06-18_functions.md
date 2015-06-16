@@ -16,13 +16,10 @@ void printNewLine() {
 }
 ```
 
-![signature body]
-(https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/funtion_signature_body.png)
-
+<img src="https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/funtion_signature_body.png" width="400" />
 
 ####Signature
-![function signature]
-(https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/function_signature_2.png)
+<img src="https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/function_signature_2.png" width="400" />
 
 A functions signature provides a high level description of how it works. There are 3 parts to a function signature:   
 1. return type  
