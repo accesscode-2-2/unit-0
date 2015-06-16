@@ -1,5 +1,5 @@
 #Objective 
-1. Ability to define and call a function
+1. Demonstrate the ability to both define and call a function
 2. Demonstrate an understanding of *abstraction*
 
 # Functions
