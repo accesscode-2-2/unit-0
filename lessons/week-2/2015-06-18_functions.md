@@ -14,7 +14,9 @@ What does this look like?
 
 ####Signature
 A functions signature provides a high level description of how it works. There are 3 parts to a function signature:   
-<img src="https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/signature.png" width="400" />
+
+<img src="https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/signature.png" width="200" />
+
 
 1. return type  
 2. name  
