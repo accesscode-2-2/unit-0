@@ -10,12 +10,6 @@ The anatomy of a `function` can be broken down into two pieces:
 
 What does this look like?
 
-``` c
-void printNewLine() {
-  printf("\n");
-}
-```
-
 <img src="https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/function_anatomy%402x.png" width="400" />
 
 ####Signature
