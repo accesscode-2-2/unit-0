@@ -3,7 +3,15 @@
 
 # Functions
 
+The anatomy of a `function` can be broken down into two pieces:
+1. Signature
+2. Body
 
+####Signature
+A functions signature provides a high level description of it is supposed to work. There are 3 parts to a function signature:   
+1. return type  
+2. name  
+3. arguments  
 
 ### Abstraction
 
