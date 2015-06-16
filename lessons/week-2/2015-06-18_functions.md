@@ -19,14 +19,14 @@ void printNewLine() {
 <img src="https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/funtion_signature_body.png" width="400" />
 
 ####Signature
+A functions signature provides a high level description of how it works. There are 3 parts to a function signature:   
 <img src="https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/function_signature_2.png" width="400" />
 
-A functions signature provides a high level description of how it works. There are 3 parts to a function signature:   
 1. return type  
 2. name  
 3. arguments  
 
-**return type:** functions can not only perform logic, but they can also return a result. A good example would be a `function` that is meant to sum 2 numbers. The logic of this function needs to not only add the 2 numbers together, but it needs to return the result. Otherwise, the sum would be completely inaccessible by the rest of our code, and therefore, useless. When we want to return a result from our function, we use the `return` keyword.
+**return type:** Functions can not only perform logic, but they can also return a result. A good example would be a `function` that is meant to sum 2 numbers. The logic of this function needs to not only add the 2 numbers together, but it needs to return the result. Otherwise, the sum would be completely inaccessible by the rest of our code, and therefore, useless. When we want to return a result from our function, we use the `return` keyword.
 
 > **sum function:**
 ```c
@@ -34,6 +34,18 @@ int sum(int a, int b) {
   return a + b;
 }
 ```
+
+**name:** Simliar to a variable, a function has a name so that we humans can easily reference it from our code. In the example above, the name of our function would be sum. 
+
+So how do we call this function and ask it to begin executing it's body?
+
+```c
+int three = 3;
+int five = 5;
+int threePlusFive = sum(3, 5);
+```
+
+The above code declares two variables, `three` and `five` and give them initial values of 3 and 5. We then declare another variable `threePlusFive` and we set the value to the returned result of `sum(3, 5)`.
 
 ### Abstraction
 
