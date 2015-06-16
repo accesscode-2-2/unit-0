@@ -21,10 +21,10 @@ void printNewLine() {
 
 
 ####Signature
-A functions signature provides a high level description of how it works. There are 3 parts to a function signature:   
 ![function signature]
 (https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/function_signature_2.png)
 
+A functions signature provides a high level description of how it works. There are 3 parts to a function signature:   
 1. return type  
 2. name  
 3. arguments  
