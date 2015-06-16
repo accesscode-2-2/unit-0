@@ -1,5 +1,6 @@
 #Objective 
-1. Demonstrate an understanding of *abstraction*
+1. Ability to define and call a function
+2. Demonstrate an understanding of *abstraction*
 
 # Functions
 
@@ -27,6 +28,15 @@ A functions signature provides a high level description of how it works. There a
 
 ![function signature]
 (https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/function_signature_2.png)
+
+**return type:** functions can not only perform logic, but they can also return a result. A good example would be a `function` that is meant to sum 2 numbers. The logic of this function needs to not only add the 2 numbers together, but it needs to return the result. Otherwise, the sum would be completely inaccessible by the rest of our code, and therefore, useless. When we want to return a result from our function, we use the `return` keyword.
+
+> **sum function:**
+```c
+int sum(int a, int b) {
+  return a + b;
+}
+```
 
 ### Abstraction
 
