@@ -22,12 +22,12 @@ void printNewLine() {
 
 ####Signature
 A functions signature provides a high level description of how it works. There are 3 parts to a function signature:   
+![function signature]
+(https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/function_signature_2.png)
+
 1. return type  
 2. name  
 3. arguments  
-
-![function signature]
-(https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/function_signature_2.png)
 
 **return type:** functions can not only perform logic, but they can also return a result. A good example would be a `function` that is meant to sum 2 numbers. The logic of this function needs to not only add the 2 numbers together, but it needs to return the result. Otherwise, the sum would be completely inaccessible by the rest of our code, and therefore, useless. When we want to return a result from our function, we use the `return` keyword.
 
