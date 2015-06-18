@@ -99,12 +99,12 @@ Scope refers to the visibility of variables and methods in one part of a program
 &mdash;
 https://en.wikiversity.org/wiki/Introduction_to_Programming/Scope
 
-> **Exercise**: Write a function that takes an array of ints and returns the largest value. Example: {5, 2, 3, 6, 8, 124} would return 124
-> **Exercise**: Do the same exercise as above but return the smallest number. Example: {5, 2, 3, 6, 8, 124} would return 2
+> **Exercise**: Write a function that takes an array of ints and returns the largest value. Example: {5, 2, 3, 6, 8, 124} would return 124  
+> **Exercise**: Do the same exercise as above but return the smallest number. Example: {5, 2, 3, 6, 8, 124} would return 2  
 
-> **Exercise**: Refactor your code from Tuesday. One thing that we did over and over was printing the array. Make a function that takes an array as a parameter and prints out each value of the array. You can also abstract the bubble sort logic into a function called `bubbleSort` that takes an `int` array and sorts it. 
+> **Exercise**: Refactor your code from Tuesday. One thing that we did over and over was printing the array. Make a function that takes an array as a parameter and prints out each value of the array. You can also abstract the bubble sort logic into a function called `bubbleSort` that takes an `int` array and sorts it.   
 
-> **Bonus Exercise:** Do the previous exercises in Swift!
+> **Bonus Exercise:** Do the previous exercises in Swift!  
 
 > **Super Bonus Exercise: DRAWING!**   
 > 1. Clone the following repo - https://github.com/accesscode-2-2/unit-0-c-functions  
