@@ -43,7 +43,9 @@ int threePlusFive = sum(3, 5);
 
 The above code declares two variables, `three` and `five` and give them initial values of 3 and 5. We then declare another variable `threePlusFive` and we set the value to the returned value of `sum(3, 5)`.
 
-**parameters:** Parameters are any additional information that is necessary in order for a function to complete its task. For instance, in the above example, a function that sums two numbers would be useless without two numbers. It would also be pointess to define two numbers within the function because the function would then be limited. For example:
+**parameters:** In computer programming, a parameter is a special kind of variable, used in a subroutine (function) to refer to one of the pieces of data provided as input to the subroutine (function). - [Wikipedia](https://en.wikipedia.org/wiki/Parameter_(computer_programming))
+
+For instance, in the above example, a function that sums two numbers would be useless without two numbers. It would also be pointess to define two numbers within the function because the function would then be limited. For example:
 
 ```c
 int sum() {
