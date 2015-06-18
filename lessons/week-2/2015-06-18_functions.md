@@ -106,7 +106,7 @@ https://en.wikiversity.org/wiki/Introduction_to_Programming/Scope
 
 > **Bonus Exercise:** Do the previous exercises in Swift!
 
-> **Super Bonus Exercise: DRAWING!** 
-> 1. Clone the following repo - https://github.com/accesscode-2-2/unit-0-c-functions
-> 2. Run the code
-> 3. Extend the functionality of the code to include more shapes. Use functions to make your drawing easier / more robus.
+> **Super Bonus Exercise: DRAWING!**   
+> 1. Clone the following repo - https://github.com/accesscode-2-2/unit-0-c-functions  
+> 2. Run the code  
+> 3. Extend the functionality of the code to include more shapes. Use functions to make your drawing easier / more robust.  
