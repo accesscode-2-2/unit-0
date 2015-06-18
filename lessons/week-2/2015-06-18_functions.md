@@ -56,9 +56,9 @@ int sum() {
 }
 ```
 
-The above `function` would always return a value `8`. If we wanted to sum `1 + 2` our function would be inadequate. Through the concept of parameters, we can create a *generic function*.
+The above `function` would always return a value `8`. If we wanted to sum `1 + 2` our function would be inadequate. Through the concept of parameters, we can create a [*generic function*](http://www.answers.com/Q/What_does_generality_means_in_context_of_programming).
 
-will will accept provide the numbers when we call the function giving it a lot of flexibility. So how do we make our code general? With parameters!
+By generalizing our `sum` function, we can now apply it to **any context** where we may need to sum two numbers.
 
 ```c
 int sum(int a, int b) {
@@ -66,13 +66,14 @@ int sum(int a, int b) {
 }
 ```
 
-
 ### Abstraction
 
 In computer science, *abstraction* is a technique for managing complexity of computer systems. It works by establishing a level of complexity on which a person interacts with the system, suppressing the more complex details below the current level. The programmer works with an idealized interface (usually well defined) and can add additional levels of functionality that would otherwise be too complex to handle. For example, a programmer writing code that involves numerical operations may not be interested in the way numbers are represented in the underlying hardware (e.g. whether they're 16 bit or 32 bit integers), and where those details have been suppressed it can be said that they were *abstracted* away, leaving simply numbers with which the programmer can work. 
 
 &mdash;  
 https://en.wikipedia.org/wiki/Abstraction_(computer_science)
+
+## ¡Core Concepts!
 
 ### Don't Repeat Yourself (D.R.Y)
 
