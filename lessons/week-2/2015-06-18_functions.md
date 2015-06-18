@@ -26,26 +26,26 @@ A functions signature provides a high level description of how it works. There a
 
 > **sum function:**
 ```c
-int sum(int a, int b) {
-  return a + b;
+int sum() {
+  int three = 3;
+  int five = 5;
+  return three + five;
 }
 ```
 
-**name:** Simliar to a variable, a function has a name so that we humans can easily reference it from our code. In the example above, the name of our function would be sum. 
+**name:** Simliar to a variable, a function has a name so that we humans can easily reference it from our code. In the example above, the name of our function would be `sum`. 
 
 So how do we ask a function to execute?
 
 ```c
-int three = 3;
-int five = 5;
-int threePlusFive = sum(3, 5);
+int threePlusFive = sum();
 ```
 
-The above code declares two variables, `three` and `five` and give them initial values of 3 and 5. We then declare another variable `threePlusFive` and we set the value to the returned value of `sum(3, 5)`.
+The above code declares a new variable a) of type `int` b) with a name of `threePlusFive`. The value of `threePlusFive` is the *returned value* of the function `sum`.
 
 **parameters:** In computer programming, a parameter is a special kind of variable, used in a subroutine (function) to refer to one of the pieces of data provided as input to the subroutine (function). - [Wikipedia](https://en.wikipedia.org/wiki/Parameter_(computer_programming))
 
-For instance, in the above example, a function that sums two numbers would be useless without two numbers. It would also be pointess to define two numbers within the function because the function would then be limited. For example:
+For example:
 
 ```c
 int sum() {
@@ -55,7 +55,13 @@ int sum() {
 }
 ```
 
-The above `function` would always return a value of 8. If we wanted to sum 1 + 2 it would be impossible. Through the concept of parameters, we can provide the numbers when we call the function giving it a lot of flexibility. 
+The above `function` would always return a value of 8. If we wanted to sum 1 + 2 our function would fall short. Through the concept of parameters, we can create a *generic function*, will will accept  provide the numbers when we call the function giving it a lot of flexibility. So how do we make our code general? With parameters!
+
+```c
+int sum(int a, int b) {
+  return a + b;
+}
+```
 
 
 ### Abstraction
