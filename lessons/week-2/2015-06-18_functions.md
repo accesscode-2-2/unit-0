@@ -1,6 +1,6 @@
 #Objective 
 1. Demonstrate the ability to both define and call a function
-2. Demonstrate an understanding of *abstraction*
+2. Demonstrate an understanding of *abstraction*, *D.R.Y*, and *Scope*
 
 # Functions
 
@@ -91,6 +91,13 @@ In software engineering, don’t repeat yourself (DRY) is a principle of softwar
 
 &mdash;  
 https://en.wikipedia.org/wiki/Don't_repeat_yourself
+
+### Scope
+
+Scope refers to the visibility of variables and methods in one part of a program to another part of that program.
+
+&mdash;
+https://en.wikiversity.org/wiki/Introduction_to_Programming/Scope
 
 > **Exercise**: Write a function that takes an array of ints and returns the largest value. Example: {5, 2, 3, 6, 8, 124} would return 124
 > **Exercise**: Do the same exercise as above but return the smallest number. Example: {5, 2, 3, 6, 8, 124} would return 2
