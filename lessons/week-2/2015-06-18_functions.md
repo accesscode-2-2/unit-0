@@ -30,6 +30,8 @@ printNewLine();
 
 The code above is *calling* the `printNewLine` function. When we *call* a function, we're asking it to execute the logic contained within it's body. Without the parentheses, we would be referencing our fuction, NOT executing.  
 
+> **Demo**
+
 **return type:** Functions don't only perform logic, but they can also return a result. A good example would be a `function` that is meant to sum 2 numbers. The logic of this function needs to not only add the 2 numbers together, but it needs to return the result. Otherwise, the sum would be completely inaccessible by the rest of our code, and therefore, useless. When we want to return a result from our function, we use the `return` keyword.
 
 > **sum function:**
@@ -43,6 +45,8 @@ int sum() {
 ```c
 int threePlusFive = sum();
 ```
+
+> **Demo**
 
 **parameters:** In computer programming, a parameter is a special kind of variable, used in a subroutine (function) to refer to one of the pieces of data provided as input to the subroutine (function). - [Wikipedia](https://en.wikipedia.org/wiki/Parameter_(computer_programming))
 
@@ -66,6 +70,12 @@ int sum(int a, int b) {
 }
 ```
 
+> **Demo**  
+
+> **Exercise**: Create function for each of the main operators: +, -, *, /, that takes 2 parameters (float or int) and returns the correct result
+
+> **Demo**
+
 ## ¡Core Concepts!
 
 ### Abstraction
@@ -82,5 +92,11 @@ In software engineering, don’t repeat yourself (DRY) is a principle of softwar
 &mdash;  
 https://en.wikipedia.org/wiki/Don't_repeat_yourself
 
+> **Exercise**: Write a function that takes an array of ints and returns the largest value. Example: {5, 2, 3, 6, 8, 124} would return 124
+> **Exercise**: Do the same exercise as above but return the smallest number. Example: {5, 2, 3, 6, 8, 124} would return 2
 
-> **Exercise**: Create function for each of the main operators: +, -, *, /, that takes 2 parameters (float or int) and returns the correct result
+> **Exercise**: Refactor your code from Tuesday. One thing that we did over and over was printing the array. Make a function that takes an array as a parameter and prints out each value of the array. You can also abstract the bubble sort logic into a function called `bubbleSort` that takes an `int` array and sorts it. 
+
+> **Bonus Exercise:** Do the previous exercises in Swift!
+
+> **Super Bonus Exercise:** 
