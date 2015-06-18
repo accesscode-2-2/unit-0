@@ -14,13 +14,21 @@ What does this look like?
 
 ####Signature
 A functions signature provides a high level description of how it works. There are 3 parts to a function signature:   
-1. return type  
-2. name  
+1. name  
+2. return type  
 3. parameters  
 
 <img src="https://raw.githubusercontent.com/accesscode-2-2/unit-0/master/lessons/week-2/images/signature.png" width="200" />
 
+**name:** Simliar to a variable, a function has a name so that we humans can easily reference it from our code. In the example above, the name of our function would be `sum`. 
 
+So how do we ask a function to execute?
+
+```c
+printNewLine();
+```
+
+The code above is *calling* the `printNewLine` function. When we *call* a function, we're asking it to execute the logic contained within it's body. Without the parentheses, we would be referencing our fuction, NOT executing.  
 
 **return type:** Functions don't only perform logic, but they can also return a result. A good example would be a `function` that is meant to sum 2 numbers. The logic of this function needs to not only add the 2 numbers together, but it needs to return the result. Otherwise, the sum would be completely inaccessible by the rest of our code, and therefore, useless. When we want to return a result from our function, we use the `return` keyword.
 
@@ -31,17 +39,10 @@ int sum() {
   int five = 5;
   return three + five;
 }
-```
-
-**name:** Simliar to a variable, a function has a name so that we humans can easily reference it from our code. In the example above, the name of our function would be `sum`. 
-
-So how do we ask a function to execute?
 
 ```c
 int threePlusFive = sum();
 ```
-
-The above code declares a new variable a) of type `int` b) with a name of `threePlusFive`. The value of `threePlusFive` is the *returned value* of the function `sum`.
 
 **parameters:** In computer programming, a parameter is a special kind of variable, used in a subroutine (function) to refer to one of the pieces of data provided as input to the subroutine (function). - [Wikipedia](https://en.wikipedia.org/wiki/Parameter_(computer_programming))
 
@@ -55,7 +56,9 @@ int sum() {
 }
 ```
 
-The above `function` would always return a value of 8. If we wanted to sum 1 + 2 our function would fall short. Through the concept of parameters, we can create a *generic function*, will will accept  provide the numbers when we call the function giving it a lot of flexibility. So how do we make our code general? With parameters!
+The above `function` would always return a value `8`. If we wanted to sum `1 + 2` our function would be inadequate. Through the concept of parameters, we can create a *generic function*.
+
+will will accept provide the numbers when we call the function giving it a lot of flexibility. So how do we make our code general? With parameters!
 
 ```c
 int sum(int a, int b) {
