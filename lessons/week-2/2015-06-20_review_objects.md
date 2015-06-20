@@ -75,6 +75,8 @@ ClassName *variableName = [[ClassName alloc] init];
 @end
 ```
 
+#[Code sample from class](https://gist.github.com/mikekavouras/3f90192e652302fc13fa)
+
 ####Properties
 ```objective-c
 @implementation ClassName { 
