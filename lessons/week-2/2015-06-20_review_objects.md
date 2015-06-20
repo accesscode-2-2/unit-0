@@ -90,5 +90,4 @@ ClassName *variableName = [[ClassName alloc] init];
 #Code sample from class
 https://gist.github.com/mikekavouras/3f90192e652302fc13fa
 
-###https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/EncapsulatingData/EncapsulatingData.html
 https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/EncapsulatingData/EncapsulatingData.html
