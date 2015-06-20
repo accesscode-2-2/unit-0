@@ -7,7 +7,9 @@
 
 **arrays, loops, and functions**
 
->**Exercise:** Write a function called `reverse` that takes a number (int or float) array as a parameter and returns the array *reversed*  
+>**Exercise:** Write a function called `reverse` that takes a number (int or float) array as a parameter and returns the array *reversed*    
+>**Exercise:** Write a function that takes a string (char array) as a parameter and determines whether or not it's a [palindrome](https://en.wikipedia.org/wiki/Palindrome)  
+>**Exercise:** Write a function that takes a string (char array) as a parameter and returns a string with every other character uppercase. ("hi my name is mike" -> "Hi mY NaMe iS MiKe")  
 >**Exercise:** Write a function that takes an int array as a parameter and returns only the even numbers  
 >**Exercise:** Refactor *HangPerson* to use functions. Abstract out complex logic and repeated code. Be mindful of abstracting out code that is general and could potentially be reused in other programs  
 >**Exercise:**  
