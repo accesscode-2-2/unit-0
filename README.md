@@ -15,3 +15,5 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
 6 | Jun 13 | 1 | [Loops](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-1/2015-06-13_loops.md)
 7 | Jun 14 | 1 | [Arrays + Loops](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-1/2015-06-14_loops_arrays.md)
 8 | Jun 9-14 | 1 | [Homework: Hang Person](https://github.com/accesscode-2-2/unit-0/blob/master/homework/week_1_homework.md)
+9 | Jun 16 | 2 | [Arrays + Loops](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-2/2015-06-16_bubble_sort.md)
+10 | Jun 18 | 2 | [Functions](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-2/2015-06-18_functions.md)
