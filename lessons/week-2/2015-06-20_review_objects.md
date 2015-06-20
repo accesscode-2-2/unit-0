@@ -39,7 +39,50 @@ Kochan, Stephen G. (2012-10-29). Programming in Objective-C (5th Edition) (Devel
 @end
 ```
 
+[Demo]()
+
 ## Instance
 ```objective-c
 ClassName *variableName = [[ClassName alloc] init];
+```
+
+####Methods
+
+
+```objective-c
+
+// definition
+
+@interface ClassName: NSObject
+
+- (void)setNumerator:(int)n;
+- (void)setDenominator:(int)d;
+
+@end
+
+// implementation
+
+@implementation ClassName
+
+- (void)setNumerator:(int)n {
+  numerator = n;
+}
+
+- (void)setDenominator:(int)d {
+  denominator = d;
+}
+
+@end
+```
+
+####Properties
+```objective-c
+@implementation ClassName { 
+  int numerator;
+  int denominator;
+}
+
+// method implementations
+
+@end
 ```
