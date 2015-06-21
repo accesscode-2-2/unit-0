@@ -18,3 +18,4 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
 9 | Jun 16 | 2 | [Arrays + Loops](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-2/2015-06-16_bubble_sort.md)
 10 | Jun 18 | 2 | [Functions](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-2/2015-06-18_functions.md)
 11 | Jun 20 | 2 | [Review + Objects](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-2/2015-06-20_review_objects.md)
+12 | Jun 21 | 2 | [Objects + Classes](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-2/2015-06-21_pairing_objects.md)
