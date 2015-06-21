@@ -9,7 +9,7 @@ http://www.wikihow.com/Pair-Program
 
 ## BankAccount & Patron
 
-####Create two classes BankAccount and Patron
+####Create two classes: BankAccount and Patron
 - A BankAccount has a balance
 - A Patron has a name, an account, and his/her “pocket”.
 
@@ -32,4 +32,23 @@ http://www.wikihow.com/Pair-Program
 
 
 ## Calculator
-It’s time now to define a new class. We’re going to make a Calculator class, which will be a simple four-function calculator you can use to add, multiply, subtract, and divide numbers. Similar to a regular calculator, this one must keep track of the running total, or what’s usually called the accumulator. So, methods must let you set the accumulator to a specific value, clear it (or set it to zero), and retrieve its value when you’re done. Program 4.6 includes the new class definition and a test program to try your calculator.
+
+####Create one class: Calculator
+
+####For now, our constraints will be:
+- Your calculator must be able to add, subtract, multiply, and divide
+- Your calculator should have an accumulator property to hold on to the current calculated value
+- 
+
+#### Some suggested "interactions":
+- A calculator should be able to change its sign (+/-)
+- A calculator should be able to display the reciprocal value of the accumulator (1 / accumulator)
+- A calculator should be able to produce the squared value of the accumulator
+
+##### Extra Credit:
+
+Add a memory capability to your calculator:
+- Memory Clear // clear memory
+- Memory Store // set memory to accumulator
+- Memory Recall // set accumulator to memory
+
