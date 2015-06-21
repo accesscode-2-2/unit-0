@@ -13,7 +13,7 @@ The Roman General Julius Caesar used to correspond with his generals using a sec
 * Being amateur codebreakers, we want to know if two distinct looking ciphers correspond to the same input message. Write a function called codeBreaker, which accepts two cipher strings and returns a boolean value which tells us whether they are actually the same input message encoded using two different offsets.
 * There are multiple ways to do this. Try to come up with as many solutions as you can.
 
-### 4. BONUS : Voting System
+### 3. BONUS : Voting System
 
 You are given 3 classes
 
