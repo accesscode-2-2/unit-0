@@ -36,9 +36,8 @@ http://www.wikihow.com/Pair-Program
 ####Create one class: Calculator
 
 ####For now, our constraints will be:
-- Your calculator must be able to add, subtract, multiply, and divide
+- Your calculator must be able to add, subtract, multiply, and divide  
 - Your calculator should have an accumulator property to hold on to the current calculated value
-- 
 
 #### Some suggested "interactions":
 - A calculator should be able to change its sign (+/-)
