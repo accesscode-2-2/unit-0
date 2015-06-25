@@ -28,7 +28,7 @@ You application should have the following properites:
   * sort by due date 
 * Parse natural language eg. “mark running done”
 
-Other considerations:
+**Other considerations:**
 * Look around at some other to-do list apps. Implement any features that you find interesting.
 
 #### Submission
