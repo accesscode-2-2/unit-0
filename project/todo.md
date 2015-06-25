@@ -1,7 +1,5 @@
 # Todo List
 
-#### Requirements
-
 The purpose of this project is to create a feature-full todo list command line app. A user can enter commands to manipulate their todo list(s).
 
 You application should have the following properites:
