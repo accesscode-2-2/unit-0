@@ -12,7 +12,7 @@ You application should have the following properites:
 
 #### Features
 
-* Create multiple lists
+* Create lists
 * Add an item to a list
 * Delete an item from a list
 * Mark an item as "done"
