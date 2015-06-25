@@ -4,6 +4,8 @@ The purpose of this project is to create a feature-full todo list command line a
 
 You application should have the following properites:
 
+[sample output](https://gist.github.com/mikekavouras/939807bb840cc8e15a21)
+
 #### Requirements
 
 * Does not crash.
@@ -13,8 +15,6 @@ You application should have the following properites:
 * A class to manage your todo lists
 * A class to represent a todo list
 * A class to represent a todo item
-
-[sample output](https://gist.github.com/mikekavouras/939807bb840cc8e15a21)
 
 
 #### Features
