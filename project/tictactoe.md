@@ -10,9 +10,9 @@ You application should have the following properites:
 
 #### Features
 
-* Print out the current board
+* Print out the current board. There's no standard for this, as long as you can tell it's a tic tac toe board.
 * Allow a user to select a spot (row, column)
-* Verify whether a spot is a valid selection
+* Verify whether a spot is a valid selection (is it empty?)
 * 1 player (vs. cpu) and 2 player modes
 * Show a win state
 * Show a lose state
