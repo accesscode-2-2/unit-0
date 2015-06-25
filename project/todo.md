@@ -7,6 +7,7 @@ You application should have the following properites:
 #### Requirements
 
 * Does not crash.
+* Gracefully handle unacceptable user input
 
 #### Features
 
