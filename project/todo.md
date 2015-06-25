@@ -38,6 +38,3 @@ in your README instructions for using your app.
 
 We will have demos in class on Thursday July 2nd. I will probably ask your team one or two technical questions based
 on your source.
-
-We will also have demo rehearsals in class on Tuesday June 30th. These are not optional, so prepare to be code
-complete by this date at the latest.
