@@ -20,3 +20,4 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
 11 | Jun 20 | 2 | [Review + Objects](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-2/2015-06-20_review_objects.md)
 12 | Jun 21 | 2 | [Objects + Classes](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-2/2015-06-21_pairing_objects.md)
 13 | Jun 16-21 | 2 | [Homework: Object+Classes](https://github.com/accesscode-2-2/unit-0-hw-week-2)
+14 | Jun 23 | 3 | [Objects + Classes](https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-3/2015-06-23_object%2Bclasses.md)
