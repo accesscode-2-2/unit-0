@@ -9,6 +9,10 @@ You application should have the following properites:
 * Does not crash.
 * Gracefully handle unacceptable user input.
 
+##### Structural requirements
+* A class to manage your game
+* **bonus challenges:** Classes to encapsulate levels of abstraction
+
 #### Features
 
 * Print out the current board. There's no standard for this, as long as you can tell it's a tic tac toe board.
