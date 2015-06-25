@@ -34,3 +34,12 @@ You can also access items via bracket notation, like we did in C, however, if yo
 NSString *firstItem = myArray[0]; // "first thing"
 NSString *tenthItem = myArray[9]; // *** Terminating app due to uncaught exception 'NSRangeException', reason: '*** -[__NSArrayM objectAtIndex:]: index 9 beyond bounds [0 .. 2]'
 ```
+
+One additional shortcut: You can create an *immutable* `NSArray` instance by using the shorthand `@`.
+```objective-c
+NSArray *myArray = @[
+  @"first thing", 
+  @"second thing", 
+  @"third thing"
+];
+```
