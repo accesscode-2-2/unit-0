@@ -1,0 +1,18 @@
+# Objective
+1. Be able to discern between the two Array classes in Objective-C
+
+# NSArray + NSMutableArray
+
+In Objective-C, arrays are not built into the language as they are in C. Instead, they're classes provided for us in the Foundation library.
+There are two different classes for dealing with arrays: `NSArray` and `NSMutableArray`.
+
+#### [NSArray](https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Classes/NSArray_Class/index.html)
+`NSArray` is the base class for dealing with Arrays in Objective-C. `NSArray` represents an **immutable** array, meaning once it has been created it can not be changed. This 
+is different from `NSMutableArray`, which is a mutable subclass of `NSArray`. 
+
+```objective-c
+NSArray *myArray = [NSArray arrayWithObjects:@"first thing", @"second thing", @"third thing", nil];
+```
+
+#### [NSMutableArray](https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Classes/NSMutableArray_Class/index.html#//apple_ref/occ/cl/NSMutableArray)
+`NSMutableArray` is a concrete subclass of `NSArray`, meaning it has all of the functionality of `NSArray`. It also provides us with additional methods for adding, removing, and altering items within an array. 
