@@ -9,7 +9,7 @@ You application should have the following properites:
 * Does not crash.
 * Gracefully handle unacceptable user input
 
-**basic structure**
+##### Structural requirements
 * A class to manage your todo lists
 * A class to represent a todo list
 * A class to represent a todo item
