@@ -19,18 +19,16 @@ You application should have the following properites:
 
 #### Bonus
 
-* Select between normal ttt and super tic tac toe
-  * Super tic tac toe (4 x 4)
+* Select between normal ttt and super ttt
+  * Super ttt (4 x 4)
 
 
 #### Super Bonus
-* Select between normal ttt, super ttt, and [Mega Tic Tac Toe](https://www.youtube.com/watch?v=gDTwuqi0G7g)
+* Select between normal ttt, super ttt, and [Mega ttt](https://www.youtube.com/watch?v=gDTwuqi0G7g)
 * Different levels of difficulty for CPU 
 
 #### Submission
-
-Submit your projects by July 1st at 10:00pm. Submit your projects by adding a link to your repo below. Include
-in your README instructions for using your app.
+Submit your projects by July 1st at 10:00pm. Submit your projects by making a pull request to the following repository: https://github.com/accesscode-2-2/unit-0-final-project
 
 We will have demos in class on Thursday July 2nd. I will probably ask your team one or two technical questions based
 on your source.
