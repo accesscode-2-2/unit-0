@@ -14,6 +14,8 @@ You application should have the following properites:
 * Allow a user to select a spot (row, column)
 * Verify whether a spot is a valid selection
 * 1 player (vs. cpu) and 2 player modes
+* Show a win state
+* Show a lose state
 
 #### Bonus
 
