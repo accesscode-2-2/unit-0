@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic Tac Toe - [wiki](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
 The purpose of this project is to create a fully functional tic tac toe command line application.
 
@@ -7,6 +7,7 @@ You application should have the following properites:
 #### Requirements
 
 * Does not crash.
+* Gracefully handle unacceptable user input.
 
 #### Features
 
