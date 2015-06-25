@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-The purpose of this project is to create a fully functional tic tac toe game.
+The purpose of this project is to create a fully functional tic tac toe command line application.
 
 You application should have the following properites:
 
