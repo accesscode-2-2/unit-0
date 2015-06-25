@@ -9,10 +9,15 @@ You application should have the following properites:
 * Does not crash.
 * Gracefully handle unacceptable user input
 
-#### Features
+** basic structure **
+* A class to manage your todo lists
+* A class to represent a todo list
+* A class to represent a todo item
 
-// add output from demo app
-// lay out basic object structure
+[sample output](https://gist.github.com/mikekavouras/939807bb840cc8e15a21)
+
+
+#### Features
 
 * Create lists 
 * Add an item to a list
