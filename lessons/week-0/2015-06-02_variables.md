@@ -1,11 +1,10 @@
-# Code Sample
 [**Code sample**](https://gist.github.com/mikekavouras/5abfc01fdb77e8c60b8e)  
 
 # Objectives
 1. Declare variables of different types
 2. Print different typed variable to the console
 
-# Variables
+### Variables
 
 A variable is a name that has an associated value. Variables allow us to store and reference data in our program.
 ```objective-c
@@ -18,7 +17,7 @@ In the code above, ```age``` is a variable that stores the value 42; Every time 
 
 A pointer is a variable that points to another variable. Specifically, pointers store the address of another variable.
 
-# Types
+### Types
 
 In Objective-C, each variable is preceded by a specific type. These types serve a few purposes:  
 1. Allow the system to resposibly manage memory  
